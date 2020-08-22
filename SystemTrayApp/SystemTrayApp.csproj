@@ -91,6 +91,7 @@
     <None Include="Resources\NotReadyIcon.ico" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="Resources\LeftMouseButtonActive.ico" />
     <Content Include="Resources\RightMouseButtonActive.ico" />
   </ItemGroup>
