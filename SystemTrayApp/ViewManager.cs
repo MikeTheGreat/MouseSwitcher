@@ -22,7 +22,7 @@ namespace SystemTrayApp
             {
                 ContextMenuStrip = new ContextMenuStrip(),
                 Icon = ic,
-                Text = "System Tray App: Device Not Present",
+                Text = "Mouser Switcher - swap your left and right mouse buttons",
                 Visible = true,
             };
 
